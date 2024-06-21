@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+html{
+    background-color: #B3A194;
+    
+}
+
+h1 {
+    color: #333;
+    font-size: 2.5em;
+}
+
+img {
+    border-radius: 50%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+#introduce, #funfacts {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 20px auto;
+    max-width: 600px;
+}
+
+
+#funfacts {
+    margin-top: 0;
+}
+
+ul {
+    margin-top: 20px;
+    padding-left: 0;
+}
+
+li {
+    margin-bottom: 20px;
+    padding-left: 2px;
+}
+
+span {
+    display: block;
+    font-size: 0.8em;
+    color: #666;
+    margin-top: 20px;
+}
